@@ -1,3 +1,21 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1,
+h2 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 120px;
+    text-decoration: underline;
+    color: rgb(58, 94, 130);
+    margin-bottom: 50px;
+} */
+
+
 body {
     display: flex;
     justify-content: center;
